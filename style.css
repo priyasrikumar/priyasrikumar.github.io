@@ -1,10 +1,10 @@
-@import url(//fonts.googleapis.com/css?family=Lato:300,700);
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu');
 
 body {
   font-family: Open Sans, sans-serif;
   /* text-align: justify;     */
   font-size: 11pt;
-  color: #3a3a3b;
+  color: #1D1B1B;
   /* background-color: #dedede; */
   background-color: #ebecee;
 }
@@ -25,7 +25,7 @@ img {
 }
 
 .page_content {
-  background-color: #ffffff;
+  background-color: #BEC2BB;
   margin-top: 75px;
   margin-bottom: 30px;
   padding-top: 15px;
@@ -47,11 +47,11 @@ li {
 /* Links */
 
 a:link {
-  color:  #50416d;
+  color:  #e19999;
 }
 
 a:visited {
-  color: #727273;
+  color: #706d67;
 }
 
 /* Nav bar */
@@ -69,8 +69,8 @@ a:visited {
     margin-right: auto;
     margin-top: 15px;
     display: table;
-    background-color: #5d4e79;
-    color: #ffffff;
+    background-color: #f5a8a8;
+    color: #BEC2BB;
     width: 800px;
     height: 44px;
     text-align: center;
@@ -84,16 +84,16 @@ a:visited {
     display: inline;
     list-style-type: none;
     padding: 15px;
-    font-family: 'Lato';
+    font-family: 'Ubuntu', sans-serif;
     font-weight: 300;
     font-size: 18pt;            
 }
 #nav_bar a:link {
-    color: #ffffff;
+    color: #BEC2BB;
     text-decoration: none;
 }
 #nav_bar a:visited {
-    color: #ffffff;
+    color: #BEC2BB;
     text-decoration: none;
 }
 
@@ -104,16 +104,16 @@ h1 {
   font-family: 'Lato';
   font-size: 28pt;
   font-weight: 300;  
-  color: #50416d;
+  color: #e19999;
   margin-top: 0px;
   margin-bottom: 5px;
 }
 
 h2 {
-  font-family: 'Lato';
+  font-family: 'Ubuntu', sans-serif;
   font-size: 20pt;
   font-weight: 300;  
-  color: #50416d;
+  color: #e19999;
 }
 
 h3 {
