@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
 body {
   font-family: Open Sans, sans-serif;
   /* text-align: justify;     */
   font-size: 11pt;
-  color: #1D1B1B;
+  color: #40454F;
   /* background-color: #dedede; */
-  background-color: #ebecee;
+  background-color: #F3F7F6;
 }
 
 p {
@@ -25,7 +25,7 @@ img {
 }
 
 .page_content {
-  background-color: #BEC2BB;
+  background-color: #F3F7F6;
   margin-top: 75px;
   margin-bottom: 30px;
   padding-top: 15px;
@@ -47,11 +47,11 @@ li {
 /* Links */
 
 a:link {
-  color:  #e19999;
+  color:  #BF9B9F;
 }
 
 a:visited {
-  color: #706d67;
+  color: #656B7B;
 }
 
 /* Nav bar */
@@ -69,8 +69,8 @@ a:visited {
     margin-right: auto;
     margin-top: 15px;
     display: table;
-    background-color: #f5a8a8;
-    color: #BEC2BB;
+    background-color: #BF9B9F;
+    color: #ffffff;
     width: 800px;
     height: 44px;
     text-align: center;
@@ -89,11 +89,11 @@ a:visited {
     font-size: 18pt;            
 }
 #nav_bar a:link {
-    color: #BEC2BB;
+    color: #ffffff;
     text-decoration: none;
 }
 #nav_bar a:visited {
-    color: #BEC2BB;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -101,10 +101,10 @@ a:visited {
 
 
 h1 {
-  font-family: 'Lato';
+  font-family: 'Ubuntu', sans-serif;
   font-size: 28pt;
   font-weight: 300;  
-  color: #e19999;
+  color: #BF9B9F;
   margin-top: 0px;
   margin-bottom: 5px;
 }
@@ -113,7 +113,7 @@ h2 {
   font-family: 'Ubuntu', sans-serif;
   font-size: 20pt;
   font-weight: 300;  
-  color: #e19999;
+  color: #BF9B9F;
 }
 
 h3 {
